@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import Name from './components/Name'
-import Name from './components/Food'
+import Food from './components/Food'
 
 export default function App() {
   return (
